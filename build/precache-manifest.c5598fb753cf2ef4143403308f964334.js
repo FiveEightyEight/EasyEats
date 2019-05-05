@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c116b953614f783f8fc35de47a843823",
+    "revision": "d95dd21ee1f24af3d9ce1406a04454f6",
     "url": "/EasyEats/index.html"
   },
   {
-    "revision": "629294e3c12ec53e0b67",
+    "revision": "68bdbeba0ff90170715e",
     "url": "/EasyEats/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "f44a7f3e2784e841eccf",
+    "revision": "33225a44cb4fe2326d39",
     "url": "/EasyEats/static/css/main.9e6e4118.chunk.css"
   },
   {
-    "revision": "629294e3c12ec53e0b67",
-    "url": "/EasyEats/static/js/2.6dc57406.chunk.js"
+    "revision": "68bdbeba0ff90170715e",
+    "url": "/EasyEats/static/js/2.db5cf049.chunk.js"
   },
   {
-    "revision": "f44a7f3e2784e841eccf",
-    "url": "/EasyEats/static/js/main.b1a15c5b.chunk.js"
+    "revision": "33225a44cb4fe2326d39",
+    "url": "/EasyEats/static/js/main.dea19e8e.chunk.js"
   },
   {
     "revision": "053138374fdde5746e61",
