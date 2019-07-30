@@ -5,3 +5,4 @@
 ##### but we believe making food choices shouldn't be one of them. This is why we are introducing EasyEats.
 ##### EasyEats makes deciding on what to eat alot more easier with such tap of few buttons on your phone.
 ##### EasyEats generates a list of restaurants where each user can vote on. From their you can see categories of restaurants as well as their menu.
+<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiq_pT7it3jAhUMVd8KHeLDCWQQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fx-rays-exquisite-vision%2F&psig=AOvVaw2LfOgvK2Q9KVwfMzFqwp5y&ust=1564591308804806" width="40%">.
